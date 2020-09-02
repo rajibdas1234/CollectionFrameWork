@@ -1,0 +1,2 @@
+C:\Users\Rajib\Source\Repos\CollectionProgram\CollectionProgram\obj\Debug\CollectionProgram.csprojAssemblyReference.cache
+C:\Users\Rajib\Source\Repos\CollectionProgram\CollectionProgram\obj\Debug\CollectionProgram.csproj.CoreCompileInputs.cache
